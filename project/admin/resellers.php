@@ -50,6 +50,7 @@ $result=mysqli_query($conn,$sql);
                             <th>DOB</th>
                             <th>Mobile</th>
                             <th>Address</th>
+                            <th>Residence</th>
                         </tr>
                         </thead>
                         <?php
